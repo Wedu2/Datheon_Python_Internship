@@ -78,56 +78,14 @@ The models will be evaluated using:
 
 These metrics will help assess how effectively the models classify the three flower species.
 
-## 7. Repository Structure
 
-```text
-Multi-class-Classification/
-│
-├── data/
-│   └── iris.csv
-│
-├── notebooks/
-│   └── Multi-class_Classification.ipynb
-│
-├── src/
-│   └── model.py
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
-## 8. Installation and Usage
-
-### Step 1: Clone the repository
-
-```bash
-git clone https://github.com/Wedu2/Multi-class-Classification.git
-```
-
-### Step 2: Navigate to the project directory
-
-```bash
-cd multiclass-classification
-```
-
-### Step 3: Install the required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-### Step 4: Run the notebook
-
-Open the Jupyter Notebook in your preferred development environment and execute the cells sequentially.
-
-## 9. Expected Outcome
+## 7. Expected Outcome
 
 The expected outcome is to develop a machine learning classification model capable of predicting the species of an iris flower based on its sepal and petal measurements.
 
 The project will also demonstrate an understanding of the complete machine learning workflow, including data preparation, model development, and performance evaluation.
 
-## 10. Author
+## 8. Author
 
 **Data Science Student**
 
